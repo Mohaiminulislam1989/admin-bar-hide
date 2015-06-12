@@ -1,9 +1,10 @@
 ===  Admin Bar Hide ===
 Contributors: sk.shaikat
 Tags: Hide, admin bar, hide admin bar, admin bar hide, admin toolbar, toolbar hide, header toolbar hide
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=XWBPHY6KV8SPW&lc=US&item_name=WooCommerce%20Upcoming%20Product&item_number=wup%2ddonation&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=XWBPHY6KV8SPW&lc=US&item_name=Admin%20Bar%20Hide&item_number=abh&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
 Requires at least: 3.1
 Tested up to: 4.2.2
+Stable tag: 0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -35,6 +36,9 @@ Author:  [@Sk_Shaikat](https://twitter.com/SK_Shaikat)
 
 and Enjoy... :)
 
+== Screenshots ==
+
+1. Hide admin toolbar from other users.
 
 == Changelog ==
 
