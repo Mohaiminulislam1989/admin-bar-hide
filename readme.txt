@@ -1,10 +1,10 @@
 ===  Admin Bar Hide ===
 Contributors: sk.shaikat
-Tags: Hide, admin bar, hide admin bar, admin bar hide, admin toolbar, toolbar hide, header toolbar hide
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=XWBPHY6KV8SPW&lc=US&item_name=Admin%20Bar%20Hide&item_number=abh&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
+Tags: Hide, admin bar, hide admin bar, admin bar hide, admin toolbar, toolbar hide, header toolbar hide, toolbar hide
+Donate link: https://www.paypal.me/skshaikat
 Requires at least: 3.1
-Tested up to: 4.2.2
-Stable tag: 0.1
+Tested up to: 4.8.1
+Stable tag: 0.1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -14,7 +14,7 @@ Hide admin toolbar for other users.
 
 Hide admin toolbar for other users. 
 
-* Only admin will have that menu.
+* Only admin will have admin toolbar menu.
 
 
 = More info =
@@ -27,7 +27,7 @@ UpComing feature list -
 
 Support: Please navigate to the support tab.
 
-Author:  [@Sk_Shaikat](https://twitter.com/SK_Shaikat)
+Author:  [@Sk_Shaikat](https://www.facebook.com/skshaikat18)
 
 == Installation ==
 
@@ -41,6 +41,10 @@ and Enjoy... :)
 1. Hide admin toolbar from other users.
 
 == Changelog ==
+
+= 0.1.0.1 = Sep 06, 2017
+* [fix] Textdomain fix
+* [fix] Textdomain fix
 
 = 0.1 =
 * Initial release

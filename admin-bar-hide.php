@@ -3,9 +3,9 @@
 Plugin Name: Admin Bar Hide
 Plugin URI: http://shaikat.me
 Description: Hide admin toolbar for all other users. Only admin can have that toolbar.
-Version: 0.1
+Version: 0.1.0.1
 Author: Sk Shaikat
-Author URI: http://shaikat.me/
+Author URI: https://www.facebook.com/skshaikat18
 License: GPL2
 */
 
@@ -111,7 +111,7 @@ class Admin_Bar_Hide {
      * @uses load_plugin_textdomain()
      */
     public function localization_setup() {
-        load_plugin_textdomain( 'baseplugin', false, dirname( plugin_basename( __FILE__ ) ) . '/languages/' );
+        load_plugin_textdomain( 'abh', false, dirname( plugin_basename( __FILE__ ) ) . '/languages/' );
     }
 
     /**
